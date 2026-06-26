@@ -23,7 +23,7 @@
       "downloadUrl": "https://github.com/Niyonne/Button-breaker-release/releases/download/1.4/Button.Breaker_V1.4.exe",
       "sha256": "",
       "sizeBytes": 0,
-      "changelog": "Version stable 1.4"
+      "changelog": "Version stable 1.4, cette version est peut être corrompue, si oui, c'est de la faute à Chombi."
     },
     {
       "version": "1.5.0",
@@ -39,7 +39,7 @@
       "downloadUrl": "https://github.com/Niyonne/Button-breaker-release/releases/download/1.5.1/Button.Breaker_V1.5.1.exe",
       "sha256": "",
       "sizeBytes": 0,
-      "changelog": "patch 1.5.1"
+      "changelog": "Version patchée 1.5.1"
     }
   ]
 }
